@@ -1,4 +1,4 @@
-package com.myportfolio.web;
+package com.compactgym.web;
 
 import java.text.DateFormat;
 import java.util.Date;
